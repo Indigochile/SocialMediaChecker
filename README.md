@@ -1,7 +1,7 @@
 <h1 align="center">
-  <br>
+  <p>
   <a href="https://github.com/Fah4d"><img src="https://i.imgur.com/cKxxf6T.png" alt="Example" width="700" height="500"></a>
-  <br>
+  </p>
 </h1>
 
 # SocialMediaChecker
