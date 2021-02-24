@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Fah4d"><img src="https://i.imgur.com/cKxxf6T.png" alt="Example"></a>
+  <a href="https://github.com/Fah4d"><img src="https://i.imgur.com/cKxxf6T.png" alt="Example" width="456" height="143"></a>
   <br>
 </h1>
 
