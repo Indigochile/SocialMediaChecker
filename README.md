@@ -1,2 +1,8 @@
 # SocialMediaChecker
-[ Twitter - Instagram - Snapchat ] Email Checker . 
+[ Twitter - Instagram - Snapchat ] Email Checker if it's linked or not . 
+
+# Requirements
+----------
+
+- requests 
+` $ pip install requests `
